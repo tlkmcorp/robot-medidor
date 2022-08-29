@@ -7,7 +7,7 @@ Materiales usados en el proyecto:
 
 - Arduino NodeMCU Lolin v3
 - Sensor ultrasonidos HC-SR04
-- Driver LM 324N para los motores
+- Mini L298N Driver para los motores
 - Protoboard
 - Cables
 - Dos motores + ruedas
